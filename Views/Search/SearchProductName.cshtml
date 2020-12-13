@@ -1,0 +1,67 @@
+﻿@model IEnumerable<PhoneWeb.Models.Domain.Product>
+
+@{
+    ViewData["Title"] = "Detail";
+}
+<br />
+<h1>Chi tiết sản phẩm</h1>
+<hr />
+@foreach (var item in Model)
+{
+    <div>
+        <h3 class="text-uppercase"> @item.ProductName</h3>
+        <hr />
+        <div class="row">
+            <div class="col-sm-7">
+                <dl class="row">
+
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.ProductName)
+                    </dt>
+                    <dd class="col-sm-9  text-uppercase">
+                        @item.ProductName
+                    </dd>
+
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.ProductPrice)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @item.ProductPrice VNĐ
+                    </dd>
+
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Descriptions)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @item.Descriptions
+                    </dd>
+                </dl>
+
+                <div class="row">
+                    <div>
+                        <a asp-controller="Cart" asp-action="Buy" asp-route-id="@item.ProductId" class="btn btn-danger">  Thêm vào giỏ hàng </a> |
+                        <a class="btn btn-info" asp-controller="Home" asp-action="Index"> Trở về trang chủ</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <img src="~/Images/@item.ProductImage" width="500" height="500" alt="image" />
+            </div>
+
+
+        </div>
+    </div>
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,116 @@
+﻿
+
+/*----------------------------- Kiểu chữ -----------------------------*/
+
+body {
+    font-weight: 400;
+    color: #333;
+    background-color: aliceblue;
+}
+
+a {
+    color: #2B2D42;
+    font-weight: 500;
+    -webkit-transition: 0.2s color;
+    transition: 0.6s color;
+}
+
+    a:hover, a:focus {
+        color: #D10024;
+        text-decoration: none;
+        outline: none;
+        font-style: italic;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+/*---------------------------- Footer -----------------------------*/
+footer div a{
+    color: white;
+}
+/*---------------------------- Transition -----------------------------*/
+#transitionDMSP:hover {
+    font-size: 30px;
+    font-style: italic;
+}
+
+#transitionButtonGioHang:hover {
+    font-size: 20px;
+    font-style: italic;
+}
+/*---------------------------- Header -----------------------------*/
+/* 
+    <ul class="header-links navbar-nav ml-auto">: (navbar-nav ml-auto) right item vertical
+    <ul class="header-links  ml-auto"> (ml-auto)right item horizonal
+*/
+    #top-header {
+        padding-top: 5px;
+        padding-bottom:5px;
+        background-color: #000000;
+
+    }
+    .header-links li {
+        display: inline-block;
+        margin-right: 20px;
+        font-size: 15px;
+        color:red;
+    }
+    .header-links li:last-child {
+        margin-right: 0px;
+    }
+
+    .header-links li a {
+        color: #FFF;
+    }
+
+    .header-links li a:hover {
+        color: #D10024;
+    }
+
+    .header-links li i {
+        color: #D10024;
+        margin-right: 5px;
+    }
+
+/*---------------------------- Navigation Bar layout -----------------------------*/
+/* Logo */
+#nav {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #ffc107;
+}
+
+    .nav-logo {
+        float: left;
+    }
+
+    .nav-logo .logo img {
+        display: block;
+    }
+/* Search */
+.nav-search input{
+    font-style:italic;
+}
+
+/*---------------------------- Chi tiet sp (Details) -----------------------------*/
+.pb-product-details-ul {
+    color: black;
+}
+
+#gradient {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#feffff+0,ddf1f9+31,a0d8ef+62 */
+    background: #feffff; /* Old browsers */
+    background: -moz-linear-gradient(left, #feffff 0%, #ddf1f9 31%, #a0d8ef 62%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #feffff 0%,#ddf1f9 31%,#a0d8ef 62%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #feffff 0%,#ddf1f9 31%,#a0d8ef 62%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#a0d8ef',GradientType=1 ); /* IE6-9 */
+    border: 1px solid #f2f2f2;
+    padding: 20px;
+}
+
+
+
+

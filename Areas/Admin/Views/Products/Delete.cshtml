@@ -1,0 +1,72 @@
+﻿@model PhoneWeb.Models.Domain.Product
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+    <div class="container">
+        <div class="table-wrapper">
+            <div class="table-title">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h2>XOÁ SẢN PHẨM</h2>
+                    </div>
+                </div>
+            </div>
+            <h3 class="text-danger">Xác nhận xoá sản phẩm!!!!</h3>
+            <!---------------------->
+            <div class="row">
+                @Html.HiddenFor(model => model.ProductId);
+                <div class="col-sm-6">
+                    <dl class="row">
+                        <dt class="col-sm-4">
+                            Loại sản phẩm
+                        </dt>
+                        <dd class="col-sm-8">
+                            @Html.DisplayFor(model => model.Category.CategoryId)
+                        </dd>
+                        <dt class="col-sm-4">
+                            Tên sản phẩm
+                        </dt>
+                        <dd class="col-sm-8">
+                            @Html.DisplayFor(model => model.ProductName)
+                        </dd>
+                        <dt class="col-sm-4">
+                            Giá sản phẩm
+                        </dt>
+                        <dd class="col-sm-8">
+                            @Html.DisplayFor(model => model.ProductPrice)
+                        </dd>
+                        <dt class="col-sm-4">
+                            Số lượng sản phẩm
+                        </dt>
+                        <dd class="col-sm-8">
+                            @Html.DisplayFor(model => model.ProductQuantity)
+                        </dd>
+                        <dt class="col-sm-4">
+                            Ngày nhập
+                        </dt>
+                        <dd class="col-sm-8">
+                            @Html.DisplayFor(model => model.CreateDate)
+                        </dd>
+                        <dt class="col-sm-4">
+                            Mô tả
+                        </dt>
+                        <dd class="col-sm-8">
+                            @Html.DisplayFor(model => model.Descriptions)
+                        </dd>
+                    </dl>
+               </div>
+                <div class="col-md-6">
+                    <img src="~/images/@Model.ProductImage" width="400" height="400" alt="image" />
+                </div>
+                    <form asp-action="Delete" method="post" enctype="multipart/form-data">
+                        <input type="hidden" asp-for="ProductId" />
+                        <input type="submit" value="Xoá sản phẩm" class="btn btn-danger" /> |
+                        <a asp-action="Index">Trở về danh sách </a>
+                    </form>
+
+                </div>
+
+            </div>
+        </div>

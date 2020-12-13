@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@model PhoneWeb.Models.UserRegistrationModel
+
+
+<link rel="stylesheet" href="~/css/styleAccount.css" />
+
+<div id="LoginForm">
+    <div class="container">
+        <div class="login-form">
+            <div class="main-div">
+                <div class="panel">
+                    <h5>ĐĂNG KÝ TÀI KHOẢN</h5>
+                    <p> Nhập đầy đủ thông tin dưới đây</p>
+                </div>
+                <div class="panel">
+                    <form asp-action="Create" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label class="control-label"> Họ</label>
+                            <input asp-for="LastName" class="form-control" />
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label"> Tên </label>
+                            <input asp-for="FirstName" class="form-control" />
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="control-label"> Số Điện Thoại</label>
+                            <input asp-for="PhoneNumber" class="form-control" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label"> Mật khẩu </label>
+                            <input type="password" asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label"> Nhập lại mật khẩu </label>
+                            <input type="password" asp-for="ComfirmPassword" class="form-control" />
+                            <span asp-validation-for="ComfirmPassword" class="text-danger"></span>
+                        </div>
+                        <br />
+                        <div class="form-group">
+                            <input type="submit" value="Đăng ký" class="btn btn-primary" /> |
+                        </div>
+                        <br />
+                        <div class="form-group">
+                            <a class="text-primary" asp-area="Admin" asp-action="ManagerUsers" asp-controller="ManageUser"> Trở về trang chủ </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

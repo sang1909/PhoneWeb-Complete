@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PhoneWeb</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/styleError.css" />
+
+    <!-- Css Style layout  -->
+    <link type="text/css" rel="stylesheet" href="~/css/StyleLayout.css" />
+    <!-- Font awesome 4.7 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+    <link rel="icon" href="~/picture/logo.png" style="width:50px;">
+
+
+</head>
+<body>
+    <header>
+        <!-- Top header -->
+        <div class="navbar" id="top-header">
+            <div class="container">
+                <ul class="header-links ml-auto">
+                    <li><a asp-area="" asp-controller="Home" asp-action="GioiThieu"><i class="fa fa-home "></i>  Giới Thiệu </a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Privacy"><i class="fa fa-phone "></i>  Liên hệ </a></li>
+                    <li>
+                        <partial name="_LoginPartial" />
+                    </li>
+                    <li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            @if (User.IsInRole("Administrator"))
+                            {
+                                <a asp-area="Admin" asp-controller="HomeAdmin" asp-action="Index"><i class="fa fa-lock" aria-hidden="true"></i> Admin </a>
+                            }
+                        }
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- Navigation bar -->
+        <nav class="navbar" id="nav">
+            <div class="container">
+                <!-- Logo -->
+                <div class="col-md-3">
+                    <div class="nav-logo">
+                        <a class="logo" asp-area="" asp-controller="Home" asp-action="Index">
+                            <img src="~/picture/logo.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!-- Search -->
+                <div class="col-md-7">
+
+                    <!-- form search -->
+                    <form class="card" method="post" enctype="multipart/form-data">
+                        <div class="row no-gutters align-items-center">
+                            <!------------------------------------------------>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Thể loại</button>
+
+                                    <div class="dropdown-menu">
+                                        <!-- Search Name-->
+                                        <input type="submit" class="dropdown-item" asp-controller="Search" asp-action="SearchProductName" value="Tên" />
+
+                                        <div role="separator" class="dropdown-divider"></div>
+
+                                        <!-- Search Price increase (t) -->
+                                        <a class="dropdown-item" asp-controller="Search" asp-action="SearchProductPriceIncrease" name="SearchPriceIncrease">Giá tăng</a>
+
+                                        <div role="separator" class="dropdown-divider"></div>
+
+                                        <!-- Search Price descending (g)-->
+                                        <a class="dropdown-item" asp-controller="Search" asp-action="SearchProductPriceDescending" name="SearchPriceDescending">Giá giảm</a>
+                                    </div>
+
+                                </div>
+                                <!-- Input - String search name -->
+                                <input type="text" class="form-control" id="searchString" name="searchString" aria-label="Text input with dropdown button">
+
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+                <!-- Button -->
+                <div class="col-md-2 ">
+                    <a id="transitionButtonGioHang" class="header-links pull-right" asp-controller="Cart" asp-action="Index">
+                        <i class="fa fa-shopping-cart fa-2x text-white"></i>
+                        <i class="text-white"> Giỏ hàng </i>
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- RenderBody--->
+    <div class="container">
+        <main role="main" class="pb-3 ">
+            @RenderBody()
+        </main>
+    </div>
+    <!-- Footer--->
+    <br /> <br />
+    <footer class="border-top footer bg-dark text-muted">
+            <div class="container text-center text-white">         
+                &copy; 2020 - MOBILE - <a asp-area="" asp-controller="Home" asp-action="Privacy">Liên hệ</a>
+            </div>
+        </footer>
+    <!--Lib-->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

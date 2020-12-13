@@ -1,0 +1,73 @@
+﻿@model PhoneWeb.Models.Domain.Product
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="container">
+    <div class="table-wrapper">
+        <div class="table-title">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2>THÊM SẢN PHẨM</h2>
+                </div>
+            </div>
+        </div>
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <aside class="col-md-6">
+                    <div class="form-group">
+                        <h4 class="control-label"> Loại sản phẩm </h4>
+                        <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryName"></select>
+                    </div>
+                    <div class="form-group">
+                        <h4 class="control-label"> Tên sản phẩm </h4>
+                        <input asp-for="ProductName" class="form-control" />
+                        <span asp-validation-for="ProductName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <h4 class="control-label"> Giá sản phẩm </h4>
+                        <input type="number" asp-for="ProductPrice" class="form-control" />
+                        <span asp-validation-for="ProductPrice" class="text-danger"></span>
+                    </div>
+                </aside>
+                <aside class="col-md-6">
+                    <div class="form-group">
+                        <h4 class="control-label"> Số lượng sản phẩm </h4>
+                        <input asp-for="ProductQuantity" class="form-control" />
+                        <span asp-validation-for="ProductQuantity" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <h4 class="control-label"> Ảnh sản phẩm </h4>
+                        <input asp-for="ProductImage" class="form-control" type="file" name="photo" />
+                        <span asp-validation-for="ProductImage" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <h4 class="control-label"> Mô tả sản phẩm </h4>
+                        <input asp-for="Descriptions" class="form-control" />
+                        <span asp-validation-for="Descriptions" class="text-danger"></span>
+                    </div>
+                </aside>
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Thêm sản phẩm" class="btn btn-primary" /> |
+                <a asp-action="Index">Trở về danh sách </a>
+            </div>
+
+        </form>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+

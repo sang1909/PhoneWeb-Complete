@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewData["Title"] = "ManagerUsers";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@model PhoneWeb.Models.ListIdentityUser
+@{
+    var i = 0;
+}
+<br />
+<h2> Số lượng tài khoản: @Model.ListUser.Count()</h2>
+<div class="text-md-left">
+    <h1> Quản lý tài khoản </h1>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-3">
+
+        <a class="btn bg-info text-white" asp-controller="ManageUser" asp-action="Create" >
+            <i class="fa fa-plus" aria-hidden="true"></i> Thêm tài khoản mới
+        </a>
+         
+    </div>
+    <div class="col-md-6 text-center">
+        <div class="row no-gutters align-items-center">
+            <div class="col-auto">
+                <i class="fa fa-search fa-2x"></i>
+            </div>
+            <div class="col nav-search">
+                <input class="form-control" id="search" name="search" type="search" placeholder="Tìm kiếm tài khoản">
+            </div>
+
+            <div class="col-auto">
+                <input class="btn btn-md btn-secondary" id="btnSearch" name="btnSearch" type="submit" value="Tìm kiếm" />
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<table class="table" border="1">
+    <thead border="1">
+        <tr>
+            <td style="color:blue">STT</td>
+            <td style="color:blue">ID</td>
+            <td style="color:blue">Email</td>
+            <td style="color:blue">Họ</td>
+            <td style="color:blue">Tên</td>
+            <td style="color:blue">Điện Thoại</td>
+            <td style="color:blue">Hành động</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.ListUser)
+        {
+            <tr class="jumbotron">
+
+                <td>@(++i)</td>
+                <td>@user.Id</td>
+                <td>@user.UserName</td>
+                <td>@user.LastName</td>
+                <td>@user.FirstName</td>
+                <td>@user.PhoneNumber</td>
+
+                <td>
+                    <a class="btn bg-success text-white" asp-controller="ManageUser" asp-action="Edit" asp-route-id="@user.Id">
+                        <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Sửa
+                    </a>
+                    @*<a class="btn bg-danger text-white" asp-controller="ManageUser" asp-action="Delete" asp-route-id="@user.Id">
+                        <i class="fa fa-trash" aria-hidden="true"></i> Xóa
+                    </a>*@
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+</table>
+

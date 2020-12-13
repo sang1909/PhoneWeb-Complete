@@ -1,0 +1,233 @@
+﻿@model IEnumerable<PhoneWeb.Models.Domain.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<!------------------------------------------ Carousel  ------------------------------------------>
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <a asp-controller="DetailsProduct" asp-action="DetailsIphone12"><img src="~/picture/2.png" alt="..."></a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5></h5><p></p>
+            </div>
+        </div>
+        <div class="carousel-item ">
+            <a asp-controller="DetailsProduct" asp-action="DetailsIphone11"> <img src="~/picture/show2.png" alt="..."></a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5></h5><p></p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <a asp-controller="DetailsProduct" asp-action="DetailsVsmartLive"> <img src="~/picture/show3.png" alt="..."></a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5></h5><p></p>
+            </div>
+        </div>
+
+    </div>
+    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<br />
+<!------------------------------------------ Body Page ------------------------------------------>
+<div class="row">
+    <!-- Danh muc san pham -->
+    <aside class="col-md-3">
+        <div class="card">
+            <article class="card-group-item">
+                <header class="card-header bg-dark"><h6 class="title text-white">DANH MỤC SẢN PHẨM</h6></header>
+                <div class="filter-content">
+                    <div class="list-group list-group-flush">
+                        <a id="transitionDMSP" asp-controller="ProductList" asp-action="ListIphone" class="list-group-item ">
+                            <i style="padding-right:5px"><img style="width:50px; height:50px" src="~/picture/logo apple.png" /> </i> IPHONE
+                        </a>
+                        <a id="transitionDMSP" asp-controller="ProductList" asp-action="ListSamsung" class="list-group-item">
+                            <i style="padding-right:5px"><img style="width:50px; height:50px" src="~/picture/logo Samsung.png" /></i>  SAMSUNG
+                        </a>
+                        <a id="transitionDMSP" asp-controller="ProductList" asp-action="ListVsmart" class="list-group-item">
+                            <i style="padding-right:5px"><img style="width:50px; height:50px" src="~/picture/Logo Vsmart.png" /></i>  VSMART
+                        </a>
+                        <a id="transitionDMSP" asp-controller="ProductList" asp-action="ListNokia" class="list-group-item">
+                            <i style="padding-right:5px"><img style="width:50px; height:50px" src="~/picture/Logo Nokia.jpg" /></i>  NOKIA
+                        </a>
+                        <a id="transitionDMSP" asp-controller="ProductList" asp-action="ListOppo" class="list-group-item">
+                            <i style="padding-right:5px"><img style="width:50px; height:50px" src="~/picture/Logo oppo.jpg" /></i>  OPPO
+                        </a>
+                        <a id="transitionDMSP" asp-controller="ProductList" asp-action="ListXiaomi" class="list-group-item ">
+                            <i style="padding-right:5px"><img style="width:50px; height:50px" src="~/picture/Logo Xiaomi.png" /> </i> XIAOMI
+                        </a>
+                        <a id="transitionDMSP" asp-controller="ProductList" asp-action="ListHuawei" class="list-group-item">
+                            <i style="padding-right:5px"><img style="width:50px; height:50px" src="~/picture/Logo Huawei.jpeg" /></i>  HUAWEI
+                        </a>
+                        <a id="transitionDMSP" asp-controller="ProductList" asp-action="ListVivo" class="list-group-item">
+                            <i style="padding-right:5px"><img style="width:50px; height:50px" src="~/picture/Logo Vivo.png" /></i>  VIVO
+                        </a>
+                        <a id="transitionDMSP" asp-controller="ProductList" asp-action="ListLG" class="list-group-item">
+                            <i style="padding-right:5px"><img style="width:50px; height:50px" src="~/picture/LogoLG.jpg" /></i>  LG
+                        </a>
+
+                    </div>  <!-- list-group .// -->
+                </div>
+            </article> <!-- card-group-item.// -->
+        </div> <!-- card.// -->
+    </aside>
+    <!-- San pham giam gia--->
+    <aside class="col-md-9">
+        <header class="card-header bg-dark"><h6 class="title text-white">GIẢM GIÁ SỐC</h6></header>
+        <div class="container">
+            <div class="row" id="gradient">
+
+                <div id="SPNBCarousel" class="carousel slide  " data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="row">
+                                <!-- ip11 -->
+                                <div class="item col-md-4 text-md-center">
+                                    <div class="container">
+                                        <br />
+                                        <img class="card-img-top" style="width:200px; height:270px;" src="https://cdn.tgdd.vn/Products/Images/42/210654/iphone-11-pro-max-512gb-white-200-180x125.png" alt="">
+                                        <br />
+                                        <div class="container">
+                                            <div><b> Iphone 11 Pro Max </b></div>
+                                            <a asp-controller="DetailsProduct" asp-action="DetailsIphone11" class="text-muted"><br><i class="text-info">Chi tiết sản phẩm</i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- vsmart live -->
+                                <div class="item col-md-4 text-md-center">
+                                    <div class="container">
+                                        <br />
+                                        <img class="card-img-top" style="width:200px; height:270px;" src="https://cdn.tgdd.vn/Products/Images/42/208847/vsmart-live-black-200-180x125.png" alt="">
+                                        <br />
+                                        <div class="container">
+                                            <div><b> Vsmart Live </b></div>
+                                            <a asp-controller="DetailsProduct" asp-action="DetailsVsmartLive" class="text-muted"><br><i class="text-info">Chi tiết sản phẩm</i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- s20ultra -->
+                                <div class="item col-md-4 text-md-center">
+                                    <div class="container">
+                                        <br />
+                                        <img class="card-img-top" style="width:200px; height:270px;" src="https://cdn.tgdd.vn/Products/Images/42/217937/s20-ultra-gray-180x125.png" alt="">
+                                        <br />
+                                        <div class="container">
+                                            <div><b> Samsung Galaxy S20 Ultra </b></div>
+                                            <a asp-controller="DetailsProduct" asp-action="DetailsS20ultra" class="text-muted"><i class="text-info">Chi tiết sản phẩm</i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item ">
+                            <div class="row">
+                                <!-- note 10 lite -->
+                                <div class="item col-md-4 text-md-center">
+                                    <div class="container">
+                                        <br />
+                                        <img class="card-img-top" style="width:200px; height:270px;" src="https://cdn.tgdd.vn/Products/Images/42/214909/samsung-galaxy-note-10-lite-white-200x200-180x125.png" alt="">
+                                        <br />
+                                        <div class="container">
+                                            <div><b> Samsung Galaxy Note 10 Lite</b></div>
+                                            <a asp-controller="DetailsProduct" asp-action="DetailsGalaxyNote10Lite" class="text-muted"><i class="text-info">Chi tiết sản phẩm</i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- galaxy a71 -->
+                                <div class="item col-md-4 text-md-center">
+                                    <div class="container">
+                                        <br />
+                                        <img class="card-img-top" style="width:200px; height:270px;" src="https://cdn.tgdd.vn/Products/Images/42/210246/samsung-galaxy-a71-blue-200x200-180x125.png" alt="">
+                                        <br />
+                                        <div class="container">
+                                            <div><b> Samsung Galaxy A71 </b></div>
+                                            <a asp-controller="DetailsProduct" asp-action="DetailsGalaxyA71" class="text-muted">
+                                                <br>
+                                                <i class="text-info">Chi tiết sản phẩm</i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- galaxy a50s -->
+                                <div class="item col-md-4 text-md-center">
+                                    <div class="container">
+                                        <br />
+                                        <img class="card-img-top" style="width:200px; height:270px;" src="https://cdn.tgdd.vn/Products/Images/42/207641/samsung-galaxy-a50s-black-200-180x125.png" alt="">
+                                        <br />
+                                        <div class="container">
+                                            <div><b> Samsung Galaxy A50s </b></div>
+                                            <a asp-controller="DetailsProduct" asp-action="DetailsGalaxyA50s" class="text-muted"><br><i class="text-info">Chi tiết sản phẩm</i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#SPNBCarousel" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#SPNBCarousel" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <a asp-controller="ProductList" asp-action="ListSamsung"><img class="card-img-top" src="~/picture/show4.png" style="padding-top:15px; padding-left: 18px;" alt=""></a>
+        </div>
+        <br />
+    </aside>
+
+</div>
+<!-- San pham noi bat--->
+
+    <div class="row">
+        <div>
+            <header class="card-header bg-dark"><h6 class="title text-white">SẢN PHẨM NỔI BẬT</h6></header>
+            <div class="container">
+                <br />
+                <div class="row text-center">
+                    @foreach (var item in Model)
+                    {
+                        <div class="item col-md-4" style="padding-top:20px">
+                            <div class="card">
+                                <img class="card-img-top" src="~/images/@item.ProductImage" style=" height:350px;width:auto;padding-top:15px" alt="">
+                                <div class="card-body">
+                                    <h4 class="card-title"> @item.ProductName </h4>
+                                    <h5 style="color:red"> @item.ProductPrice VNĐ</h5>
+                                </div>
+                                <div class="card-footer">
+                                    <a asp-controller="DetailsProduct" asp-action="Details" asp-route-id="@item.ProductId" class="text-muted"><i class="btn btn-primary text-white">Chi tiết</i></a> |
+                                    <a asp-controller="Cart" asp-action="Buy" asp-route-id="@item.ProductId" class="btn btn-info">  Mua ngay</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <br />
+            </div>
+            <br />
+        </div>
+    </div>
+
+
+<!-- Picture s20--->
+<div class="row">
+    <a asp-controller="DetailsProduct" asp-action="DetailsS20ultra"><img class="card-img-top" src="~/picture/pic2.jpg" style="padding-top:13px" alt=""></a>
+</div>
+

@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "HandleErrorCode";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--
+<h1></h1>
+    -->
+
+<div id="notfound">
+    <div class="notfound-bg">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="notfound">
+        <div class="notfound-404">
+            <h1>@ViewBag.ErrorCode</h1>
+        </div>
+        <h3>@ViewBag.ErrorMessage</h3>
+
+
+        <a asp-controller="Home" asp-action="Index">TRANG CHỦ</a>
+
+
+    </div>
+</div>
+
+

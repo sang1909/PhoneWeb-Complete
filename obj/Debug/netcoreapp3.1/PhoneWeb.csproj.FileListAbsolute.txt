@@ -1,0 +1,717 @@
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.exe
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.deps.json
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.runtimeconfig.json
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.runtimeconfig.dev.json
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.pdb
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.Views.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.Views.pdb
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.csprojAssemblyReference.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.AssemblyInfoInputs.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.AssemblyInfo.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.csproj.CoreCompileInputs.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorAssemblyInfo.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorAssemblyInfo.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.TagHelpers.input.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.TagHelpers.output.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorCoreGenerate.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspHuawei.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspIphone.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspLG.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspNokia.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspOppo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspSamsung.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspVivo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspVsmart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspXiaomi.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Create.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Edit.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\ManagerUsers.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderManage\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderProcessing\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\ErrorSearch.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\SearchProductName.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\_ViewStart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Cart\ErrorCart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\CheckOrder.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\Create.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\Details.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyA50s.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyA71.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyM20.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyNote10Lite.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsIphone11.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsIphone12.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsNokia72.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsS20ultra.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsVsmartLive.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Email\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Error\HandleErrorCode.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\GioiThieu.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListHuawei.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListIphone.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListLG.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListNokia.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListOppo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListSamsung.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListVivo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListVsmart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListXiaomi.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\ErrorSearch.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\SearchProductName.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\SearchProductPriceDescending.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\SearchProductPriceIncrease.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.Views.pdb
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.csproj.CopyComplete
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\staticwebassets\PhoneWeb.StaticWebAssets.Manifest.cache
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\staticwebassets\PhoneWeb.StaticWebAssets.xml
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.dll
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.pdb
+C:\Users\Doan Thanh Sang\Desktop\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.genruntimeconfig.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.exe
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.deps.json
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.runtimeconfig.json
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.runtimeconfig.dev.json
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.pdb
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.Views.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.Views.pdb
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.csprojAssemblyReference.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.AssemblyInfoInputs.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.AssemblyInfo.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.csproj.CoreCompileInputs.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorAssemblyInfo.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorAssemblyInfo.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\staticwebassets\PhoneWeb.StaticWebAssets.Manifest.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\staticwebassets\PhoneWeb.StaticWebAssets.xml
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\scopedcss\bundle\PhoneWeb.styles.css
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.TagHelpers.input.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.TagHelpers.output.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorCoreGenerate.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspHuawei.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspIphone.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspLG.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspNokia.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspOppo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspSamsung.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspVivo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspVsmart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspXiaomi.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Create.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Edit.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\ManagerUsers.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderManage\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderProcessing\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\ErrorSearch.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\SearchProductName.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\_ViewStart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Cart\ErrorCart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\CheckOrder.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\Create.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\Details.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyA50s.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyA71.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyM20.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyNote10Lite.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsIphone11.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsIphone12.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsNokia72.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsS20ultra.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsVsmartLive.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Email\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Error\HandleErrorCode.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\GioiThieu.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListHuawei.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListIphone.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListLG.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListNokia.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListOppo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListSamsung.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListVivo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListVsmart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListXiaomi.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\ErrorSearch.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\SearchProductName.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\SearchProductPriceDescending.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\SearchProductPriceIncrease.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.Views.pdb
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.csproj.CopyComplete
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.dll
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.pdb
+C:\Users\Doan Thanh Sang\Desktop\New folder (2)\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.genruntimeconfig.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.exe
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.deps.json
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.runtimeconfig.json
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.runtimeconfig.dev.json
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.pdb
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.Views.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\PhoneWeb.Views.pdb
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.csprojAssemblyReference.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.AssemblyInfoInputs.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.AssemblyInfo.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.csproj.CoreCompileInputs.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorAssemblyInfo.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorAssemblyInfo.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\staticwebassets\PhoneWeb.StaticWebAssets.Manifest.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\staticwebassets\PhoneWeb.StaticWebAssets.xml
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\scopedcss\bundle\PhoneWeb.styles.css
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.TagHelpers.input.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.TagHelpers.output.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorCoreGenerate.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspHuawei.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspIphone.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspLG.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspNokia.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspOppo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspSamsung.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspVivo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspVsmart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageProducts\DsspXiaomi.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Create.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Edit.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\ManagerUsers.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderManage\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderProcessing\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\ErrorSearch.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\SearchProductName.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\_ViewStart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Cart\ErrorCart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\Create.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\Details.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyA50s.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyA71.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyM20.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsGalaxyNote10Lite.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsIphone11.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsIphone12.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsNokia72.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsS20ultra.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\DetailsProduct\DetailsVsmartLive.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Email\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Error\HandleErrorCode.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\GioiThieu.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListHuawei.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListIphone.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListLG.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListNokia.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListOppo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListSamsung.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListVivo.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListVsmart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\ListXiaomi.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\ErrorSearch.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\SearchProductName.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\SearchProductPriceDescending.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Search\SearchProductPriceIncrease.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.Views.pdb
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.csproj.CopyComplete
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.dll
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.pdb
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\PhoneWeb.genruntimeconfig.cache
+C:\Users\Doan Thanh Sang\Desktop\Ecommerce_WebsitePhone\PhoneWeb-Complete\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\Success.cshtml.g.cs

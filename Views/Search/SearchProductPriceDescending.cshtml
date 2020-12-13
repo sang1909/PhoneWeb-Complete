@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewData["Title"] = "SearchProductPriceDescending";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model IEnumerable<PhoneWeb.Models.Domain.Product>
+    <div class="container-fluid">
+        <!-- Chon danh muc (chung) -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            <div class="navbar-brand disabled" href="#">DANH MỤC SẢN PHẨM</div>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListIphone">IPHONE </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListSamsung">SAMSUNG</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListVsmart">VSMART</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListNokia">NOKIA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListOppo">OPPO</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListXiaomi">XIAOMI</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListHuawei">HUAWEI</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListVivo">VIVO</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListLG">LG</a>
+                    </li>                
+                  
+                </ul>
+            </div>
+        </nav>
+        <!---- Item sp --->
+        <h1> Danh mục điện thoại tìm theo giá giảm dần </h1>
+        <!--- Phân trang--->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    @for (int i = 0; i < ViewBag.count; i++)
+                    {
+                        <a href="@Url.Action("SearchProductPriceDescending", "Search", new { begin=i})" class="btn btn-primary">@i</a>
+
+                    }
+                </div>
+            </div>
+
+            <br />
+            <div class="row text-center">
+                @foreach (var item in Model)
+                {
+                    <div class="item col-md-3" style="padding-top:20px">
+                        <div class="card">
+                            <img class="card-img-top" src="~/images/@item.ProductImage" style=" height:300px;width:auto;padding-top:15px" alt="">
+                            <div class="card-body">
+                                <p class="card-title text-uppercase"> <b>@item.ProductName </b> </p>
+                                <h5 style="color:red"> @item.ProductPrice VNĐ</h5>
+                            </div>
+                            <div class="card-footer">
+                                <a asp-controller="DetailsProduct" asp-action="Details" asp-route-id="@item.ProductId" class="text-muted"><i class="btn btn-primary text-white">Chi tiết</i></a> |
+                                <a asp-controller="Cart" asp-action="Buy" asp-route-id="@item.ProductId" class="btn btn-info">  Mua ngay</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+            <br />
+        </div>
+    </div>
+

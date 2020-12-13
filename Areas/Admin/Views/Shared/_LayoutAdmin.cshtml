@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Admin </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <!-- Css Style layout  -->
+    <link type="text/css" rel="stylesheet" href="~/css/StyleLayoutAdmin.css" />
+    <!-- Css Style table  -->
+    <link type="text/css" rel="stylesheet" href="~/css/CssTableAdmin.css" />
+    <!-- Font awesome 4.7 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+</head>
+<body>
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+        <!-- * d-flex +  height: 100vh + z-index: 100 * -->
+        <div class="d-flex" id="wrapper">
+            <!-- Sidebar -->
+            <div class="border-right bg-dark" id="sidebar-wrapper">
+                <!-- <h3 class="sidebar-heading"> </h3> -->
+                <div class="list-group list-group-flush">
+                    <!-- logo -->
+                    <div id="nav">
+                        <div id="logo">
+                            <a><img src="~/picture/logo.jpg" alt=""></a>
+                        </div>
+                    </div>
+                    <!--- Title sidebar -->
+                    <ul class="nav navbar-nav">
+                        <!-- Home -->
+                        <li>
+                            <a asp-area="Admin" asp-controller="HomeAdmin" asp-action="Index" class="list-group-item list-group-item-action bg-dark text-light">
+                                <i class="fa fa-bar-chart" aria-hidden="true"></i>Tổng quan
+                            </a>
+                        </li>
+                        <!-- Quan ly don hang -->
+                        <li>
+                            <a asp-area="Admin" asp-controller="OrderProcessing" asp-action="Index" class="list-group-item list-group-item-action bg-dark text-light">
+                                <i class="fa fa-check" aria-hidden="true"></i> Quản lý đơn hàng
+                            </a>
+                        </li>
+                        <!-- Quan ly san pham -->
+                        <li class="dropright">
+                            <a class="dropdown-toggle list-group-item list-group-item-action bg-dark text-light" data-toggle="dropdown">
+                                <i class="fa fa-cubes" aria-hidden="true"></i> Quản lý sản phẩm <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li>
+                                    <a asp-area="Admin" asp-controller="Products" asp-action="Index" class="list-group-item list-group-item-action bg-light">
+                                        <i class="fa fa-arrow-right" aria-hidden="true"></i><i class="fa fa-cubes" aria-hidden="true"></i> TẤT CẢ SẢN PHẨM
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="ManageProducts" asp-action="DsspIphone" class="list-group-item list-group-item-action">
+                                        <img style="width:30px; height:30px" src="~/picture/logo apple.png" /> DSSP Loại IPHONE
+                                        
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="ManageProducts" asp-action="DsspSamsung" class="list-group-item list-group-item-action">
+                                        <img style="width:30px; height:30px" src="~/picture/logo Samsung.png" /> DSSP Loại SAMSUNG
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="ManageProducts" asp-action="DsspVsmart" class="list-group-item list-group-item-action">
+                                        <img style="width:30px; height:30px" src="~/picture/Logo Vsmart.png" /> DSSP Loại VSMART
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="ManageProducts" asp-action="DsspNokia" class="list-group-item list-group-item-action">
+                                        <img style="width:30px; height:30px" src="~/picture/Logo Nokia.jpg" /> DSSP Loại NOKIA
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="ManageProducts" asp-action="DsspOppo" class="list-group-item list-group-item-action">
+                                        <img style="width:30px; height:30px" src="~/picture/Logo oppo.jpg" /> DSSP Loại OPPO
+                                    </a>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="ManageProducts" asp-action="DsspXiaomi" class="list-group-item list-group-item-action">
+                                        <img style="width:30px; height:30px" src="~/picture/Logo Xiaomi.png" /> DSSP Loại XIAOMI
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="ManageProducts" asp-action="DsspHuawei" class="list-group-item list-group-item-action">
+                                        <img style="width:30px; height:30px" src="~/picture/Logo Huawei.jpeg" /> DSSP Loại HUAWEI
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="ManageProducts" asp-action="DsspVivo" class="list-group-item list-group-item-action">
+                                        <img style="width:30px; height:30px" src="~/picture/Logo Vivo.png" /> DSSP Loại VIVO
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="ManageProducts" asp-action="DsspLG" class="list-group-item list-group-item-action">
+                                        <img style="width:30px; height:30px" src="~/picture/LogoLG.jpg" /> DSSP Loại LG
+                                    </a>
+                                </li>                                                          
+                            </ul>
+                        </li>
+                        <!-- Quan ly khach hang -->
+                        <li>
+                            <a asp-area="Admin" asp-controller="ManageUser" asp-action="ManagerUsers" class="list-group-item list-group-item-action bg-dark text-light">
+                                <i class="fa fa-address-card" aria-hidden="true"></i> Quản lý tài khoản
+                            </a>
+                        </li>
+                        <!-- Tro ve trang mua -->
+                        <li>
+                            <a asp-area="" asp-controller="Home" asp-action="Index" class="list-group-item list-group-item-action bg-danger text-light">
+                                <i class="fa fa-shopping-cart" aria-hidden="true"></i> Về trang mua hàng
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- RenderBody--->
+            <div class="container-fluid">
+                <main role="main" class="pb-3 ">
+                    @RenderBody()
+                </main>
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <!-- Footer--->
+    <footer class="border-top footer bg-dark text-muted">
+        <div class="container text-left text-white">
+            &copy; 2020 - MOBILE
+        </div>
+    </footer>
+
+    <!--Lib-->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

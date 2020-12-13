@@ -1,0 +1,48 @@
+﻿@model PhoneWeb.Models.UserLoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+<link href="~/css/styleAccount.css" rel="stylesheet" />
+<div id="LoginForm">
+    <div class="container">
+        <div class="login-form">
+            <div class="main-div">
+                <div class="panel">
+                    <h5>ĐĂNG NHẬP TÀI KHOẢN</h5>
+                    <p> Nhập Email và Password</p>
+                </div>
+                <div class="panel">
+                    <form asp-action="Login" asp-route-returnUrl="@ViewData["ReturnUrl"]">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label"> Mật khẩu </label>
+                            <input type="password" asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>                      
+                        <br />
+                        <div class="form-group">
+                            <input type="submit" value="Đăng nhập" class="btn btn-primary" /> |
+                            <a class="btn btn-danger" asp-action="Register" asp-controller="Account"> Đăng ký </a>
+                        </div>
+                        <br />
+                        <div class="form-group">
+                            <a class="text-primary" asp-action="Index" asp-controller="Home"> Trở về trang chủ </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

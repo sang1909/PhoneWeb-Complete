@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@model PhoneWeb.Models.EditUserModel
+
+
+<link rel="stylesheet" href="~/css/styleAccount.css" />
+
+<div id="LoginForm">
+    <div class="container">
+        <div class="login-form">
+            <div class="main-div">
+                <div class="panel">
+                    <h5> SỬA THÔNG TIN TÀI KHOẢN</h5>
+                    <p> Nhập đầy đủ thông tin dưới đây</p>
+                </div>
+                <div class="panel">
+                    <form method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Id" class="control-label"> ID</label>
+                            <input asp-for="Id" disabled class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label"> Họ</label>
+                            <input asp-for="LastName" class="form-control" />
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label"> Tên </label>
+                            <input asp-for="FirstName" class="form-control" />
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="control-label"> Số Điện Thoại</label>
+                            <input asp-for="PhoneNumber" class="form-control" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <br />
+                        <div asp-validation-summary="All"></div>
+                        <div class="form-group">
+                            <input type="submit" value="Sửa" class="btn btn-primary" /> |
+                        </div>
+                        <br />
+                        <div class="form-group">
+                            <a class="text-primary" asp-area="Admin" asp-action="ManagerUsers" asp-controller="ManageUser"> Trở về trang chủ </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

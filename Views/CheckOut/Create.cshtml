@@ -1,0 +1,48 @@
+﻿@model PhoneWeb.Models.Domain.Order
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<hr />
+<h1>Thanh toán sản phẩm</h1>
+
+
+<hr />
+
+<div class="bg-white">
+    <form asp-action="Create" asp-controller="CheckOut" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @*<div class="form-group">
+                <label asp-for="OrderDate" class="control-label"></label>
+                <input disabled asp-for="OrderDate" class="form-control" />
+
+            </div>*@
+        <div class="form-group">
+            <label asp-for="TenKhachHang" class="control-label"></label>
+            <input asp-for="TenKhachHang" class="form-control" />
+
+        </div>
+        <div class="form-group">
+            <label asp-for="SoDienThoai" class="control-label"></label>
+            <input asp-for="SoDienThoai" class="form-control" />
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" />
+
+        </div>
+        <div class="form-group">
+            <label asp-for="DiaChiGiaoHang" class="control-label"></label>
+            <input asp-for="DiaChiGiaoHang" class="form-control" />
+
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Xác nhận thanh toán" class="form-control btn-danger" />
+        </div>
+    </form>
+</div>
+
+<br />

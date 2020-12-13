@@ -1,0 +1,100 @@
+﻿@model IEnumerable<PhoneWeb.Models.Domain.Product>
+@{
+    ViewData["Title"] = "Cart";
+}
+
+<!-- Chon danh muc (chung) -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <div class="navbar-brand disabled" href="#">DANH MỤC SẢN PHẨM</div>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListIphone">IPHONE</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListSamsung">SAMSUNG</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListVsmart">VSMART</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListNokia">NOKIA</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListOppo">OPPO</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListXiaomi">XIAOMI</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListHuawei">HUAWEI</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListVivo">VIVO</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ProductList" asp-action="ListLG">LG</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<br />
+<!-- Gio hang --->
+<h3> GIỎ HÀNG </h3>
+<div class="row bg-white">
+    <!-- left -->
+    <div class="col-md-9">
+        <table class="table-bordered table">
+            <tr>
+                <th> Lựa chọn </th>
+                <th> Mã </th>
+                <th> Tên sản phẩm </th>
+                <th> Ảnh </th>
+                <th> Giá </th>
+                <th> SL </th>
+                <th> Tổng phụ </th>
+            </tr>
+            @foreach (var item in ViewBag.cart)
+            {
+                <tr>
+                    <td><a class="btn btn-danger" asp-controller="cart" asp-action="remove" asp-route-id="@item.Product.ProductId"> Xoá </a></td>
+                    <td> @item.Product.ProductId </td>
+                    <td> @item.Product.ProductName </td>
+                    <td><img src="~/images/@item.Product.ProductImage" width="60" height="60"></td>
+                    <td> @item.Product.ProductPrice VNĐ</td>
+                    <td> @item.Quantity </td>
+                    <td> @item.Product.ProductPrice * @item.Quantity </td>
+                </tr>
+            }
+        </table>
+        <div style="text-align:left"><a class="btn btn-primary" asp-controller="Home" asp-action="Index"> Trở về trang chủ</a> </div>
+    </div>
+    <!-- right -->
+    <div class="col-md-3 container">
+        <br />
+        <h5 style="text-align:center"> THÔNG TIN ĐƠN HÀNG </h5> <hr />
+        <div style="text-align: left"> Tạm tính:  @ViewBag.total VNĐ </div> <hr />
+        <div>
+            <a class="btn btn-success" asp-controller="CheckOut" asp-action="Index"> ĐẶT HÀNG </a>
+
+        </div>
+
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

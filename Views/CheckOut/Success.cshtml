@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "Success";
+}
+
+<h3>Transaction Details</h3>
+<h2>
+    Trạng thái thanh toán của hóa đơn:
+    <form method="POST" asp-controller="CheckOut" asp-action="ConfirmPayment">
+        <button type="submit" name="statuspayment" value="@ViewBag.resultSatus">Xác nhận</button>
+    </form>
+</h2>
